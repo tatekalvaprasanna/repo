@@ -10,3 +10,13 @@ git status
 git commit -m "sample"
 git status
 git push
+
+
+
+mkdir dir1
+git status
+cd dir1
+touch f1
+cd ..
+or
+touch dir1/f1
