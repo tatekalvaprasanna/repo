@@ -1,0 +1,12 @@
+git clone https://github.com/tatekalvaprasanna/repo.git
+ls 
+cd repo
+ls
+touch file1
+ls 
+git status
+git add file1
+git status
+git commit -m "sample"
+git status
+git push
